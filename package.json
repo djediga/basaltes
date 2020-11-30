@@ -1,0 +1,19 @@
+{
+  "name": "basaltes",
+  "version": "1.0.0",
+  "description": "roche volcanique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djediga/basaltes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djediga/basaltes/issues"
+  },
+  "homepage": "https://github.com/djediga/basaltes#readme"
+}
